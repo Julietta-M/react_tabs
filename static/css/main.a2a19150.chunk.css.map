@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,WAAY,CACZ,aAAc","file":"main.a2a19150.chunk.css","sourcesContent":["// Put styles here\n.App {\n  width: 370px;\n  margin: 0 auto;\n}\n"]}
